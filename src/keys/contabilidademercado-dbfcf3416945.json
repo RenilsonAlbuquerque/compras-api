@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "contabilidademercado",
+  "private_key_id": "dbfcf34169451b11a7c3cb20c970d255116946fc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCQkuiaiESQWqWI\nUxuG1h+UaMPZqOK1Arc2bexIOdsPK7LJwahjIl/ybsf3pRH6GhnZ1wqhLt/ndt4a\nJZZhyjdsEfrCkUh/+TsB5ZAyUlHwk4vwRpVV2V2p01nPAPg4aTjBE6LPP3hztkQ0\n6J2pguMr8umsD6cx6wXv3yzcaQDdNIwTY6nMoAakMzr0iuskpTIFLa1ig3k3T2E3\ntFTQDlVl5UGx9R3JYCIU3jcBg4gnfWy5EucV6/YKuviJIhh6UPlgBLwbUj6QWh5B\nu5IdLaQPvYWfjxmr5MX0/g9V0au6j8vn075Em05+OfXjv9+k1OgXvJNLjWTbKKlX\nGw5cllt3AgMBAAECggEAPLYEichJipkWRE4qFBBdCJSKEiAyu7KdP3UfsSDilddS\n6Biz3pVz1zmgLaWbC/zj+C+ungsyKWAoWrCIGx6w8WgHdqdN27fMiLpfOFKLaEx9\ninQJiBiUlZlUcHJGymGdXK8jQoazzVuv/svkUWfOgAktCX01R+gbASUmEJTjsQAb\nbie2VtVD/HoO63LygJvfvAB51pPo0NP1MVzGyeeAGj6ZyItAJalefDnYtp5Bt6l9\n/D+9hc4oqPLyNktXMCbQqMocXw5rZA+WBwCbVIbhUIk1/nFEe9cUMWM9Q4qxo02x\n7tXxnpXoxrZlSBl3TNWG2iVvP6nuRwdTEdonyjrxMQKBgQDDUhEmFy362KqfyoPJ\nI176E5AmaYeHGSukr6ON8fn8EajmO1ISyvsTvIZe0dWcERXk0nx7VSViZ3nOgj0F\nOrGYQHq5tvqUFzHMqtMUMIEDuRXrvujbnqpKG0qbpY76YdcY87bop7iXS8I9mnD5\nkbHqELrwWjjpM0CnWJJ+I3WfXwKBgQC9fO7K5q9BPMQsHyLv2lBmqNgMKtE31EsQ\np9wp0zPpF/iQaxVgZWZwz3YYWNdI9/djrmM0z3dr+RjR6C8PB7e0sii/C0TANSHc\nwESphYzvmMvWMeGW+kjMmxz6Fe5/sU0cLDbNJKJHAmcWhSs4zchdrsie9eVHP7WI\nx0cNhHBy6QKBgFfSH4nL5E2ke9tK+ERI1hyFDUxoKJrS82+h1V0uTqNK4XFbfMSc\nZZXzL0uU94GroPd4uKXPm/aJ5he3MW6XfGCjpUq5fiN15ltK94tdX7Tn1HZiKVsO\nFS0q5jnjj8z+jvNWKYikWPgWBSkjtuZP3voKObN2LZ6U/93+kieLFAjrAoGBAJQh\nc4fY2M62E2GuoaBB2bK3cdXpLw9m/ZuyrfFgc2dYXu9/VwG5o2CzPk4APaSEfLhH\nXrStL12QKPAHg6pLTTiMQkA/LerYXnV1NPgVOD0iBM+YxRNC6+BPrlJvDLh0QaSx\nh9HNPrMmVLKNPmG0tVtPRPTHpAqT6nVX29rcWw/pAoGAUcJ/QBbFNbMMJmsCUU3l\nANxJN/zxf5/wMyis3jFV26+NVLaOyILIFwopCZeRsGSQ/iWNRy5eR79rqI9BLfUS\nB5GwDOXT4H2bQik8FYiOeTFUmeq3CocyyKK/5nEDQTK0hhrq+loX8DDPcJAUZnwS\nt+onAEMUfxr3be0+vdt+Y1M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "projeto-contabilidade-mercado@contabilidademercado.iam.gserviceaccount.com",
+  "client_id": "101876980952566043043",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/projeto-contabilidade-mercado%40contabilidademercado.iam.gserviceaccount.com"
+}
